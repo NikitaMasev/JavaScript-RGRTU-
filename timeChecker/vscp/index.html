@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+        <title>Time Checker</title>
+<style>
+    input {
+        padding: 5px;
+        width: 115px;
+        text-align: center;
+        align-self: center;
+    }
+    button {
+        padding: 5px;
+        width: 85px;
+        text-align: center;
+        align-self: center;
+    }
+    input,
+    select {
+        max-width: 130px;
+    }
+    label {
+      display: inline-block;
+      width: 107px;
+      padding: 8px;
+    }
+    .params_time {
+        margin: 8px;
+    }
+    
+</style>
+</head>
+<script defer src="main.js"></script>
+<body>
+<div class="time">
+    <label for="params_time">Введите время:</label>
+    <div class="params_time" id="params_time">
+        <label for="hours">Часы</label>
+        <input type="number" id="hours">
+        <label for="minutes">Минуты</label>
+        <input type="number" id="minutes">
+        <button id="btnOk">Ok</button>
+    </div>
+    
+</div>
+<br>
+<br>
+<div class="rezult" align="center" id="rez"></div>
+</body>
+</html>
