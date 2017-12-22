@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<title>Матрицы</title>
+</head>
+<script src="main.js"></script>
+<body>
+<form name="f1" align="center">
+Количество элементов в массиве <input type="text" value="9" id="sizeArray"/>
+<br><br>
+Удалить дату рождения, если стаж менее <input type="text" value="4" id="experience"/>
+<br><br>
+<br><br>
+<input type="button" id="btnGenerateListEmpl" disabled="disabled" value="Генерировать массив объектов " onclick="createListEmployees(); "></input>
+<br><br>
+<input type="button" id="btnDeleteDateborn" disabled="disabled"value="Удалить дату рождения " onclick="deleteDateBorn(); "></input>
+<br><br>
+<input type="button" id="btnComputeSumSalary" disabled="disabled"value="Рассчитать суммарную зарплату" onclick="computeSumSalary(); "></input>
+<br><br>
+<input type="button" id="btnSortEmpl" disabled="disabled"value="Отсортировать сотрудников " onclick="filterEmployees(); "></input>
+<br><br>
+<div align="center" id="rez"></div>
+</form>
+</body>
+</html>

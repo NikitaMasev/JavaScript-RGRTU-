@@ -1,0 +1,16 @@
+{
+    "lastName": ["Barkov","Menoev", "Petrov","Sharkov","Makarov","Shtraub","Griwin",
+        "Tulin","Berestov","Zaharov","Novikov","Pavlovich"],
+    "firstName": ["Vadim","Petr", "Juri","Maksim","Vadim","Vitaliy","Nikolai",
+        "Alexandro","Kirill","Dmitriy","Andrey","Alexandr"],
+    "middleName": ["Alexandrovich","Sergeevich", "Nikolaevich","Alekseevich",
+        "Dmitrievich","Vitalyevich","Vladimirovich","Vodimovich","Kirillovich",
+        "Andreevich","Vladislavovich","Jurievich"],
+    "processingPay": [1200,400,5000,7000,4600],
+    "intensityPay": [2600,3200,4000,3000,2500],
+    "premium":[10000,4000,5600,32000,43000,14000],
+    "cash": [26000,63000,25000,42000,71000,55000],
+    "experience": [1,0,4,10,3,12],
+    "post":["web-programmer","junior manager","manager project","junior java programmer",
+        "middle js programmer","senior golang programmer"]
+}
