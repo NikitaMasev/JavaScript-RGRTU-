@@ -1,6 +1,6 @@
 # Tasks from RGRTA (RSREU)
 ## For Lab6
-Describtion of task:
+Description of task:
 > Describe an array of objects and put in it the generated information about the N employees.
 > Provide information such as employee's full name (individual object),
 > date of birth (separate object), position, length of service, 
@@ -16,7 +16,7 @@ For launching this project you should:
  - PROFIT!
  
 ## For Lab7
-Describtion of task:
+Description of task:
 > Create a function for determining the characteristic of the function y = f (x) - the minimum,
 > maximum or mean value given at discrete points of the interval [a, b] with a constant step h.
 > Using it, find the characteristics of the functions f1, f2 and f3 below.
@@ -24,7 +24,7 @@ Describtion of task:
 > and function values using higher-order functions.
 
 ## For Lab8
-Describtion of task:
+Description of task:
 > StringArray. Develop a class for representing a string array. 
 > Implement methods for adding / removing rows, for element-by-element concatenation of two arrays,
 > ordering rows by length, merging two arrays of rows with deleting duplicate lines, 
@@ -32,7 +32,7 @@ Describtion of task:
 > Create 2 class objects and use them to show the work of all methods element-wise.
 
 ## For timeChecker
-Describtion of task:
+Description of task:
 > User enters the time (hours and minutes) on page.
 > Need to check the entered time and present.
 > If time does not match, output the message
